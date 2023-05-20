@@ -10,7 +10,7 @@
 
 ## 프로젝트
 
-### Cabi : 백엔드 - 42서울 내 500여개 사물함 대여/반납 웹 서비스 프로젝트
+### Cabi : 백엔드 - 42서울 내 500여개 사물함 대여/반납 [웹 서비스 프로젝트](https://cabi.oopy.io/)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=innovationacademy-kr&repo=42cabi&theme=dark)](https://github.com/innovationacademy-kr/42cabi)
 
