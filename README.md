@@ -12,9 +12,9 @@
 
 ### 42 Cabi : 백엔드 - 500여개 사물함 대여/반납 웹 서비스 프로젝트
 
-[https://github.com/innovationacademy-kr/42cabi](https://github.com/innovationacademy-kr/42cabi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=innovationacademy-kr&repo=42cabi&theme=dark)](https://github.com/innovationacademy-kr/42cabi)
 
-### 교환일기(가제, 미완) : 백엔드 - 그룹 공유 일기 및 커뮤니티 프로젝트
+교환일기(가제, 미완) : 백엔드 - 그룹 공유 일기 및 커뮤니티 프로젝트
 
 ## 스킬셋
 
@@ -27,4 +27,4 @@ innovationacademy-kr
 /
 42cabi
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=innovationacademy-kr&repo=42cabi)](https://github.com/innovationacademy-kr/42cabi)
+
