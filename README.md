@@ -20,7 +20,7 @@
 교환일기(가제, 미완) : 백엔드 - 그룹 공유 일기 및 커뮤니티 프로젝트
 
 ## 스킬셋
-<div align=center> 
+<div align=left> 
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
