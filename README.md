@@ -10,11 +10,11 @@
 
 ## 프로젝트
 
-### Cabi : 백엔드 - 42서울 내 500여개 사물함 대여/반납 [웹 서비스 프로젝트](https://cabi.oopy.io/)
+### 500여개 사물함 대여/반납 웹 서비스 [Cabi](https://cabi.oopy.io/) : 백엔드 개발 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=innovationacademy-kr&repo=42cabi&theme=dark)](https://github.com/innovationacademy-kr/42cabi)
 
-### 42 Seoul : 과제, 동료학습 기반 소프트웨어 학습 프로그램
+### 과제, 동료학습 기반 소프트웨어 학습 프로그램 42 Seoul : 카뎃(본과정)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ssuamje&repo=42Seoul&theme=dark)](https://github.com/Ssuamje/42Seoul)
 
 그룹 공유 일기 및 커뮤니티 프로젝트, 교환일기(가제, 미완) : 백엔드 개발
