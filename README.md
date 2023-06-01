@@ -17,7 +17,17 @@
 ### 42 Seoul : 과제, 동료학습 기반 소프트웨어 학습 프로그램
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ssuamje&repo=42Seoul&theme=dark)](https://github.com/Ssuamje/42Seoul)
 
-교환일기(가제, 미완) : 백엔드 - 그룹 공유 일기 및 커뮤니티 프로젝트
+그룹 공유 일기 및 커뮤니티 프로젝트, 교환일기(가제, 미완) : 백엔드 개발
+
+
+반려동물 커뮤니티, [42 Pet](https://github.com/42pet) : 백엔드 개발
+
+
+개발 지식 공유 커뮤니티, [팔만코딩경](https://80000coding.oopy.io/) : 컨트리뷰터 
+
+
+Cabi 아카이브, [까비네 사물함](https://cabi.oopy.io/) :  운영 및 글 작성
+
 
 ## 스킬셋
 <div align=left> 
