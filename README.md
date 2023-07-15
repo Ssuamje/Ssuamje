@@ -10,6 +10,18 @@
 
 현재 더 좋은 서비스와 프로그래밍 능력 성장을 위해 팀원들과 CS, 자바 스터디를 리딩하고 있습니다.
 
+## 블로그 / 노션 아카이브
+<div style="display: flex;">
+  <a href="https://ssuamje.tistory.com/">
+    <img src="https://github.com/Ssuamje/Ssuamje/assets/105692206/1f86caeb-3869-4c87-bf19-d1a35c25c487" style="width: 10%;">
+  </a>
+  <a href="https://cabi.oopy.io/">
+    <img src="https://github.com/Ssuamje/Ssuamje/assets/105692206/103d0c3f-51d1-46d1-bd52-156dd04d05bc" style="width: 10%;">
+  </a>
+</div>
+
+
+
 ## 프로젝트
 
 ### 500여개 사물함 대여/반납 웹 서비스 [Cabi](https://cabi.oopy.io/) : 백엔드 개발 
