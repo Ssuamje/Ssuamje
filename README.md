@@ -5,5 +5,5 @@
 
 
 <a href="https://ssuamje.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://github.com/user-attachments/assets/89aa152c-b731-4527-a632-82b87c505d25" alt="이미지 설명" width={117} height={61} />
+  <p>Bio</p>
 </a>
